@@ -1,3 +1,14 @@
+[declarations]
+.*/Libraries/Animated/src/nodes/AnimatedInterpolation.js
+.*/Libraries/Animated/src/nodes/AnimatedValue.js
+.*/Libraries/Components/Switch/Switch.js
+.*/Libraries/Experimental/SwipeableRow/SwipeableFlatList.js
+.*/Libraries/Experimental/SwipeableRow/SwipeableListView.js
+.*/Libraries/Lists/VirtualizedList.js
+.*/Libraries/ReactNative/YellowBox.js
+.*/Libraries/ReactNative/renderApplication.js
+.*/Libraries/ReactNative/requireNativeComponent.js
+
 [ignore]
 ; We fork some components by platform
 .*/*[.]android.js
