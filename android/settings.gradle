@@ -1,0 +1,3 @@
+rootProject.name = 'FlowDeclarations'
+
+include ':app'
